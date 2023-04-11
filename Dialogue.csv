@@ -1,0 +1,6 @@
+﻿index,answerID,questionGroupID,requiredAnswerIDs,questionText,answerText
+0,1,1,,Hello!,Hi!
+1,2,1,,Hello!,Who are you?
+2,3,2,"(2)",I’m Dan,Nice to meet you
+3,4,2,"(2)",I’m Dan,I’m John
+4,5,3,,Who are you?,I’m John
